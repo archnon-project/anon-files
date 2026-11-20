@@ -1,6 +1,6 @@
-# ***Tunnels-files v2.0.0***
+# ***Anon-files v2.0.0***
 
-**-> Built-in TunnelsOS(coming soon) official configuration files, for stuff like: terminal, status bars or shells. <-**
+**- My personal configs repository**
 
 
 ## ***Features***
@@ -18,13 +18,13 @@
 Clone repo
 
 ```bash
-  git clone https://github.com/strxint/tunnels-files
+  git clone https://github.com/archnon-project/anon-files
 ```
 
 Get inside the main folder
 
 ```bash
-  cd tunnels-files
+  cd anon-files
 ```
 
 Move everything to your personal config path, ex:
@@ -48,10 +48,3 @@ Try them, ex:
 ## ***License***
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) 
 * [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
-
-
-## ***Acknowledgements***
-
- - [zsh](https://www.zsh.org/)
- - [Bash - GNU Project](https://www.gnu.org/software/bash/)
- - [Polybar](https://polybar.github.io/2023/11/05/Release-3.7.0.html)
