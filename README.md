@@ -1,6 +1,6 @@
 # ***Anon-files v2.0.0***
 
-**- My personal configs repository**
+*- My personal configs repository.*
 
 
 ## ***Features***
